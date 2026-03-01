@@ -6,3 +6,8 @@ Funksionallıq
 2.Python-un oracledb kitabxanası ilə verilənlər bazasına qoşulma.
 3.SQL sorğuları vasitəsilə iki cədvəl arasında əlaqə quraraq məlumatların çəkilməsi.
 4.Balı 60-dan yuxarı olan tələbələrin konsola çıxarılması.
+
+Texnologiyalar
+Dil: Python
+Database: Oracle Database
+Database Tool: Oracle SQL Developer
