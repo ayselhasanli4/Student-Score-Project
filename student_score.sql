@@ -1,4 +1,3 @@
-
 create table telebe(
 t_id int primary key,
 t_ad varchar2(20),
@@ -11,7 +10,6 @@ create table qiymet(
 q_id int primary key,
 t_id int,
 foreign key (t_id) references telebe(t_id));
+
 select * from qiymet;
-
 insert into qiymet values (&q_id,&t_id);
-
